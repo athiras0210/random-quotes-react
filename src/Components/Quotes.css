@@ -1,0 +1,6 @@
+.quote-container {
+    background-color: #ffffff; /* White background color for the quote container */
+    border-radius: 15px; /* Rounded corners */
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2); /* Shadow effect */
+    padding: 20px; /* Add padding for better spacing */
+}
